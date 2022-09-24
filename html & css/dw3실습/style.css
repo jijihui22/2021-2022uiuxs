@@ -1,0 +1,10 @@
+.box{
+    border: 50px solid #e67e22;
+    width: 200px;
+    height: 200px;
+    padding:50px 
+}
+.green{border: 50px solid #2ecc71;display:none;}
+.blue{border: 50px solid #3498db}
+.margin{margin: 20px}
+

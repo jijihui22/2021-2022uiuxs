@@ -1,0 +1,10 @@
+.mother{
+    border: 1px solid red;
+    display: flex;
+    justify-content: flex-end
+}
+.childeren{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,40 @@
+.btn-outline-success{
+    border-color: chocolate;
+    color: chocolate;
+}
+.btn-outline-success:hover{
+    background-color: chocolate;
+    border-color: chocolate;
+    color: white;
+}
+nav{
+    height: 86px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.first-line{
+    border-bottom: 1px solid #392d23; 
+}
+.second-line a{
+    text-decoration: none;
+    color: white;
+}
+.third-line{
+    display: none;
+}
+@media screen and (max-width:48rem){
+    .first-line{
+        text-align: center;
+    }
+    
+    .second-line{
+        padding: 0 2rem;
+        border-bottom: 1px solid #392d23; 
+    }
+
+    .third-line{
+        display: block
+    }
+}

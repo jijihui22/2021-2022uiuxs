@@ -1,0 +1,25 @@
+.red{
+    color: red;background-color: yellow;text-align:center
+}
+
+.border-blue{
+    border: 5px solid blue;
+}
+.image-size{
+    width: 250px;
+    height: 250px;
+}
+.boxs{
+    border: 1px solid orange;
+    width: 200px;
+    height: 200px;
+
+}
+.margin-syle{
+    margin-top: 40px
+    margin-left: 100px
+}
+.paddig-syle{
+    padding-left: 50px;
+    padding-top: 200px
+}
