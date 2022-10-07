@@ -11,3 +11,6 @@ try{
     //캐치가 에러를 잡아준다
     console.log("에러",error.message)
 }
+ for i in range(10):
+  print(i)
+  print(i+1)
